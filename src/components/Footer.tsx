@@ -102,13 +102,13 @@ export default function Footer({ setCurrentPage }: FooterProps) {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-cyan-400 flex-shrink-0 mt-1" />
                 <span className="text-gray-400 text-sm">
-                  Plot no- 2405, Infront of Apollo Pharmacy, Golakha, Mancheswar, Bhubaneswar, Odisha 751010
+                  Chakeisihani, Plot No 2346/4565, First Floor, Hi-Tech Bypass Road, near Aradhya Drug House & Sameigadia Club, Mancheswar, Bhubaneswar, Odisha 751010
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-cyan-400 flex-shrink-0" />
-                <a href="tel:7008520133" className="text-gray-400 hover:text-cyan-400 transition-colors">
-                  70085 20133
+                <a href="tel:7008707044" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                  7008707044
                 </a>
               </li>
               <li className="flex items-center gap-3">
