@@ -36,7 +36,7 @@ export default function About() {
               Your Trusted Dental Partner
             </h2>
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              At MO Dental Clinic, we are committed to providing exceptional dental care in a warm and welcoming environment. Our team of experienced professionals uses the latest technology and techniques to ensure you receive the best possible treatment.
+              At Temple City Dental Clinic, we are committed to providing exceptional dental care in a warm and welcoming environment. Our team of experienced professionals uses the latest technology and techniques to ensure you receive the best possible treatment.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed mb-8">
               Whether you need a routine check-up or a complex procedure, we take the time to understand your needs and create personalized treatment plans that deliver outstanding results.

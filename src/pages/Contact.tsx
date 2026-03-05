@@ -46,8 +46,8 @@ export default function ContactPage() {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-bold text-gray-900">Phone</h3>
-                <a href="tel:+919108507850" className="text-cyan-600 hover:text-cyan-700 text-lg font-semibold">
-                  70085 20133
+                <a href="tel:+917008707044" className="text-cyan-600 hover:text-cyan-700 text-lg font-semibold">
+                  7008707044
                 </a>
                 <p className="text-gray-600 text-sm mt-1">Call us during business hours</p>
               </div>
@@ -61,10 +61,10 @@ export default function ContactPage() {
               </div>
               <div className="ml-4">
                 <h3 className="text-lg font-bold text-gray-900">Address</h3>
-                <p className="text-gray-600">Plot no- 2405</p>
-                <p className="text-gray-600">Infront of Apollo Pharmacy</p>
+                <p className="text-gray-600">Chakeisihani, Plot No 2346/4565, First Floor, Hi-Tech Bypass Road, near Aradhya Drug House & Sameigadia Club, Mancheswar, Bhubaneswar, Odisha 751010</p>
+                {/* <p className="text-gray-600">Infront of Apollo Pharmacy</p>
                 <p className="text-gray-600">Golakha, Mancheswar</p>
-                <p className="text-gray-600">Bhubaneswar, Odisha 751010</p>
+                <p className="text-gray-600">Bhubaneswar, Odisha 751010</p> */}
               </div>
             </div>
 
@@ -89,7 +89,7 @@ export default function ContactPage() {
               <p className="text-gray-600 mb-3">
                 For dental emergencies outside business hours, please call the emergency line:
               </p>
-              <p className="text-cyan-600 font-bold text-lg">70085 20133</p>
+              <p className="text-cyan-600 font-bold text-lg">7008707044</p>
             </div>
           </div>
 

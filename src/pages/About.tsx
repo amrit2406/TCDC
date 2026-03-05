@@ -28,9 +28,9 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
         <div className="mb-16">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About MO Dental Clinic</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About Temple City Dental Clinic</h1>
           <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-            Welcome to MO Dental Clinic, your trusted partner in achieving optimal oral health. Located in the heart of Mancheswar, Bhubaneswar, we have been providing exceptional dental care services to our community with a commitment to excellence and patient satisfaction.
+            Welcome to Temple City Dental Clinic, your trusted partner in achieving optimal oral health. Located in the heart of Mancheswar, Bhubaneswar, we have been providing exceptional dental care services to our community with a commitment to excellence and patient satisfaction.
           </p>
           <p className="text-lg text-gray-600 leading-relaxed">
             Our clinic combines modern technology with compassionate care, ensuring that every patient receives the highest standard of treatment. We believe that excellent dental care should be accessible, comfortable, and personalized to meet each individual's unique needs.
@@ -73,7 +73,7 @@ export default function AboutPage() {
         </div>
 
         <div className="bg-gradient-to-r from-cyan-600 to-blue-600 rounded-lg p-8 text-white">
-          <h2 className="text-3xl font-bold mb-4">Why Choose MO Dental Clinic?</h2>
+          <h2 className="text-3xl font-bold mb-4">Why Choose Temple City Dental Clinic?</h2>
           <ul className="space-y-3">
             <li className="flex items-start">
               <span className="inline-block w-6 h-6 bg-white bg-opacity-20 rounded-full mr-4 mt-1 flex-shrink-0"></span>

@@ -18,7 +18,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-xl text-gray-600 leading-relaxed">
-              Experience world-class dental care at MO Dental Clinic. We provide comprehensive dental solutions with state-of-the-art technology and compassionate care.
+              Experience world-class dental care at Temple City Dental Clinic. We provide comprehensive dental solutions with state-of-the-art technology and compassionate care.
             </p>
 
             <div className="flex flex-wrap gap-4">
@@ -54,8 +54,8 @@ export default function Hero() {
                 </div>
                 <div>
                   <p className="font-semibold text-gray-900">Call Us</p>
-                  <a href="tel:7008520133" className="text-sm text-cyan-600 hover:underline">
-                    70085 20133
+                  <a href="tel:7008707044" className="text-sm text-cyan-600 hover:underline">
+                    7008707044
                   </a>
                 </div>
               </div>

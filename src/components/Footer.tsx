@@ -17,7 +17,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-2xl font-bold text-cyan-400 mb-4">MO DENTAL</h3>
+            <h3 className="text-2xl font-bold text-cyan-400 mb-4">TEMPLE CITY DENTAL</h3>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Your trusted partner for comprehensive dental care in Bhubaneswar. We're committed to your oral health and beautiful smile.
             </p>
@@ -113,8 +113,8 @@ export default function Footer({ setCurrentPage }: FooterProps) {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-cyan-400 flex-shrink-0" />
-                <a href="mailto:info@modentalclinic.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
-                  info@modentalclinic.com
+                <a href="mailto:info@templecitydentalclinic.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                  info@templecitydentalclinic.com
                 </a>
               </li>
             </ul>
@@ -123,7 +123,7 @@ export default function Footer({ setCurrentPage }: FooterProps) {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center">
           <p className="text-gray-400">
-            © {currentYear} MO Dental Clinic. All rights reserved.
+            © {currentYear} Temple City Dental Clinic. All rights reserved.
           </p>
         </div>
       </div>

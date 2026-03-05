@@ -26,9 +26,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold text-gray-900 text-lg mb-2">Our Location</h3>
                   <p className="text-gray-700 leading-relaxed">
-                    Plot no- 2405, Infront of Apollo Pharmacy,<br />
-                    Golakha, Mancheswar,<br />
-                    Bhubaneswar, Odisha 751010
+                    Chakeisihani, Plot No 2346/4565, First Floor, Hi-Tech Bypass Road, near Aradhya Drug House & Sameigadia Club, Mancheswar, Bhubaneswar, Odisha 751010
                   </p>
                 </div>
               </div>
@@ -40,10 +38,10 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold text-gray-900 text-lg mb-2">Phone Number</h3>
                   <a
-                    href="tel:7008520133"
+                    href="tel:7008707044"
                     className="text-cyan-600 hover:text-cyan-700 font-semibold text-lg"
                   >
-                    70085 20133
+                    7008707044
                   </a>
                 </div>
               </div>
@@ -68,10 +66,10 @@ export default function Contact() {
                 <div>
                   <h3 className="font-bold text-gray-900 text-lg mb-2">Email Us</h3>
                   <a
-                    href="mailto:info@modentalclinic.com"
+                    href="mailto:info@templecitydentalclinic.com"
                     className="text-cyan-600 hover:text-cyan-700 font-semibold"
                   >
-                    info@modentalclinic.com
+                    info@templecitydentalclinic.com
                   </a>
                 </div>
               </div>
@@ -83,7 +81,7 @@ export default function Contact() {
                 Ready to take the first step towards a healthier smile? Call us now or visit our clinic.
               </p>
               <a
-                href="tel:7008520133"
+                href="tel:7008707044"
                 className="inline-flex items-center gap-2 bg-white text-cyan-600 px-8 py-4 rounded-full hover:bg-gray-100 transition-all font-semibold text-lg"
               >
                 <Phone className="w-5 h-5" />
@@ -94,14 +92,14 @@ export default function Contact() {
 
           <div className="h-[600px] rounded-2xl overflow-hidden shadow-2xl">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3742.345!2d85.8143!3d20.2961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a7e9e7e00001%3A0x1!2sGolakha%2C%20Mancheswar%2C%20Bhubaneswar%2C%20Odisha%20751010!5e0!3m2!1sen!2sin!4v1234567890"
+              src="https://www.google.com/maps?q=Plot%20No%202405%2C%20Infront%20of%20Apollo%20Pharmacy%2C%20Golakha%2C%20Mancheswar%2C%20Bhubaneswar%2C%20Odisha%20751010&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="MO Dental Clinic Location"
+              title="Temple City Dental Clinic Location"
             />
           </div>
         </div>
